@@ -1,5 +1,4 @@
 ## **Introduction**
----
 
 ### Benefits of spreadsheets:
 1. Data is in structured format
@@ -11,11 +10,8 @@
 3. Define multiple tables & the relationship b/w them (foreign keys)
 4. Protect data from unauthorized access 
 
----
-> Schema: Structure of tables in database
----
-> There are diff types of databases: relational databases, graph databases, object databases, document databases
----
+>   - Schema: Structure of tables in database    
+>   - There are diff types of databases: relational databases, graph databases, object databases, document databases
 
 ## **Relation Databases**
 - Table rows represent instances of a given entity (Ex: In customer table, each row represents a customer)
