@@ -8,8 +8,15 @@
 - Database drivers 
     - [sqlite3]()
     - [cx_Oracle]()
+- ORM
+    - [SQLAlchemy]()
 
 ### Linux
+- [Introduction & Setting up]()
+- [Basic]()
+- [Intermediate]()
+- [Editors]()
+- [IBM LSF]()
 
 
 ### Git
@@ -20,7 +27,7 @@
 
 ### Database
 - [Data modelling](topics/database/data_modelling.md)
-- 
+- [SQL Queries]()
 
 ### Backend
 - FastAPI
