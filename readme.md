@@ -1,5 +1,5 @@
 ### Python
-- [Installation & Virtual Env]()    
+- [Installation & Virtual Env](topics/python/install_venv.md)    
 - [Basics]()
 - [Intermediate]()
 - [Regex]()
@@ -12,10 +12,10 @@
     - [SQLAlchemy]()
 
 ### Linux
-- [Introduction & Setting up]()
-- [Basic]()
-- [Intermediate]()
-- [Editors]()
+- [Introduction & Shortcuts](topics/linux/intro.md)
+- [Basic](topics/linux/basics.md)
+- [Intermediate](topics/linux/intermediate.md)
+- [Editors](topics/linux/editors.md)
 - [IBM LSF]()
 
 
