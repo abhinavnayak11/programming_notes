@@ -1,4 +1,4 @@
-*Link to api manual: https://cx-oracle.readthedocs.io/en/latest/api_manual/connection.html*
+*Link to api manual: https://cx-oracle.readthedocs.io/en/latest/api_manual/module.html*
 
 ### Connecting
 ```
